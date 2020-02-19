@@ -1,0 +1,1 @@
+Leia este arquivo antes de inicar o projeto
